@@ -1,4 +1,4 @@
-# Weather Data Visualizer - Yash Verma
+# Weather Data Visualizer - Yuvraj singh
 
 This project is a weather data analysis mini project made for the course **Programming for Problem Solving using Python**.
 
@@ -56,6 +56,7 @@ python weather_analysis.py
 ---
 
 ##  Author
-**Yash Verma**  
-B.Tech CSE (AI & ML)  
+**Yuvraj singh**  
+B.Tech CSE (FSD)  
+
 K.R. Mangalam University  
